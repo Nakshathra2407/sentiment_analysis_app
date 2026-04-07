@@ -1,5 +1,5 @@
 streamlit
 pandas
-pyPDF2
+PyPDF2
 textblob
 plotly
